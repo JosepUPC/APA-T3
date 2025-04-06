@@ -113,7 +113,7 @@ vale insertar una imagen o una captura de pantalla, debe hacerse en formato *mar
     La componente perpendicular es:
         v42 = Vector([1.0, -1.0, 1.0])
 
-"""
+"""py
 import unittest
 
 class Vector:

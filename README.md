@@ -84,7 +84,7 @@ Inserte a continuación el código de los métodos desarrollados en esta tarea, 
 comandos necesarios para que se realice el realce sintáctico en Python del mismo (no
 vale insertar una imagen o una captura de pantalla, debe hacerse en formato *markdown*).
 
-```ipython
+```python
 """
     Tercera tarea de APA - manejo de vectores
 
